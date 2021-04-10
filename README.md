@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashank 👨🏻‍💻 </h1>
 
+- 🔭 I’m currently working on  [![Contacts App](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/shanky1506/contacts-app)
+- 🌱 I’m currently learning React
+- 💬 Ask me about web dev
+
 <!--
 **shanky1506/shanky1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
