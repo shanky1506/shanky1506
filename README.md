@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -49,4 +48,6 @@ Here are some ideas to get you started:
            
             
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky1506&show_icons=true&locale=en&layout=compact" alt="shanky1506"  width="300" height="150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky1506&show_icons=true&locale=en&layout=compact" alt="shanky1506"  width="300" height="150" /></p> 
+
+-->
